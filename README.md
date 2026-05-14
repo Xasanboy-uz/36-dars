@@ -1,2 +1,1 @@
-# 36-dars
-dars
+Darslar
